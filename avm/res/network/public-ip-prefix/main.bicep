@@ -31,6 +31,7 @@ param customIPPrefix object = {}
   1
   2
   3
+  null
 ])
 param zones int[] = [
   1
